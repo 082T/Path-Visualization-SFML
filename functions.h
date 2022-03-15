@@ -77,7 +77,7 @@ private:
 
 	rect_row button_list; //list of buttons
 	sf::RenderWindow* gridWindow; //window
-	std::vector<sf::Text> text_list;
+	std::vector<sf::Text> text_list; //list of button texts
 
 public:
 
