@@ -21,12 +21,3 @@ To compile and run (visual studio 2019):
 - Add SFML-2.5.1\include to C/c++ -> General -> Additional Include Directories
 - Add SFML-2.5.1\lib to Linker -> General -> Additional Library Directories
 
-
-In case of error: 
-
-Linker -> Input -> Additional Dependencies
--opengl32.lib
--sfml-system.lib
--sfml-window.lib
--sfml-graphics.lib
--sfml-main.lib
