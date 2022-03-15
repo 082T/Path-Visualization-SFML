@@ -14,3 +14,19 @@ Buttons:
 
 https://user-images.githubusercontent.com/43017115/158460820-cf7cac85-9f48-4b69-abce-ab41543a1c02.mp4
 
+To compile and run (visual studio 2019):
+- Download SFML library
+- Copy .dll files in project folder
+- Change mode to Release x64
+- Add SFML-2.5.1\include to C/c++ -> General -> Additional Include Directories
+- Add SFML-2.5.1\lib to Linker -> General -> Additional Library Directories
+
+
+In case of error: 
+
+Linker -> Input -> Additional Dependencies
+-opengl32.lib
+-sfml-system.lib
+-sfml-window.lib
+-sfml-graphics.lib
+-sfml-main.lib
