@@ -14,6 +14,9 @@ Buttons:
 
 https://user-images.githubusercontent.com/43017115/158460820-cf7cac85-9f48-4b69-abce-ab41543a1c02.mp4
 
+![image](https://user-images.githubusercontent.com/43017115/158481783-db52c3b2-b492-4e9f-b678-124049623158.png)
+
+
 To compile and run (visual studio 2019):
 - Download SFML library
 - Copy .dll files in project folder
