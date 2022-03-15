@@ -21,6 +21,6 @@ To compile and run (visual studio 2019):
 - Download SFML library
 - Copy .dll files in project folder
 - Change mode to Release x64
-- Add SFML-2.5.1\include to C/C++ -> General -> Additional Include Directories
-- Add SFML-2.5.1\lib to Linker -> General -> Additional Library Directories
+- Add SFML\include to C/C++ -> General -> Additional Include Directories
+- Add SFML\lib to Linker -> General -> Additional Library Directories
 
