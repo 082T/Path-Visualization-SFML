@@ -18,8 +18,8 @@ https://user-images.githubusercontent.com/43017115/158460820-cf7cac85-9f48-4b69-
 
 
 To compile and run (visual studio 2019):
+- Pull all the files to your project folder
 - Download SFML
-- Copy .dll files in project folder
 - Change project mode to Release x64
 - Add SFML\include to C/C++ -> General -> Additional Include Directories
 - Add SFML\lib to Linker -> General -> Additional Library Directories
